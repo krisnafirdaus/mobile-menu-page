@@ -47,3 +47,4 @@ app.*.map.json
 # Local working notes and generated previews
 TECHNICAL_TEST_GUIDE.md
 artifacts/
+submission/
